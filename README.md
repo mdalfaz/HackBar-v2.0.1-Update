@@ -22,4 +22,4 @@ This newly added **Admin Page Finder** feature will help you discover hidden adm
 
 📽 **Watch the installation video**: [Video Link]
 
-🔗 **Download HackBar v2.0.1**: [HackBar GitHub Repository](https://github.com/PhHitachi/HackBar)
+🔗 **Download HackBar v2.0.1**: [HackBar GitHub Repository](https://github.com/mdalfaz/HackBar-v2.0.1-Update/blob/main/HackBar%20By%20Alfaz.xpi)
