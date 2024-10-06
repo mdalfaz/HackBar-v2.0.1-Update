@@ -20,6 +20,6 @@ This newly added **Admin Page Finder** feature will help you discover hidden adm
 - **File Type**: The HackBar v2.0.1 is available as an **.xpi** file.
 - To download and install HackBar, follow the steps in this tutorial video:
 
-📽 **Watch the installation video**: [Video Link]
+📽 **Watch the installation video**: [Video Link](https://youtu.be/fn-GY0cDc7U)
 
 🔗 **Download HackBar v2.0.1**: [HackBar GitHub Repository](https://github.com/mdalfaz/HackBar-v2.0.1-Update/blob/main/HackBar%20By%20Alfaz.xpi)
